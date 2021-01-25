@@ -1,0 +1,6 @@
+<resources>
+    <style name="error_appearance" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/blue2</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>

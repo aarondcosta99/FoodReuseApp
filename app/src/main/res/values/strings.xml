@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">FoodReuseApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_message_text">Type a message&#8230;</string>
+    <string name="error_empty_message">Please enter a message</string>
+    <string name="error_message_failed">Failed to send your message</string>
+    <string name="guide">
+
+    </string>
+    <string name="rb">
+        A non-profit, food rescue organisation that bridges the gap between hunger and excess food. Started on 23rd December 2017 under the
+        able mentorship of former Director General of Police, Maharashtra, Mr. D. Sivanandhan, we aim to eliminate hunger, malnutrition and
+        food wastage, many meals at a time.\n\n
+        The way our NGO functions is simple. We pick up excess food from weddings, events, hotels, cafeterias, housing societies and deliver it to
+        thousands of hungry people who live in slums or on the footpath. We also deliver daily meals to kids of Drona Foundation, Dharavi and
+        the relatives of cancer patients at Tata Memorial Hospital. Other than that, we distribute freshly cooked food and raw grains to our
+        regular beneficiaries. The NGO has a dedicated helpline where we can be reached and our dedicated vans pick up the excess food and
+        redistribute it promptly, thus ensuring that the quality of the food remains intact.
+    </string>
+    <string name="fi">
+        Zomato Feeding India has a network of 24,500+ volunteers present across 100+ cities in India, and has served 33+ million (3.3+ Crore)
+        meals to people in need. Our beneficiaries include and are not limited to - children, women, the elderly, specially-abled and migrant
+        labourers.\n\n
+        Through our five key programs and with the help of our volunteers - our Hunger Heroes, we redistribute surplus healthy meals to those
+        who don’t have adequate or regular access to it.
+    </string>
+    <string name="trha">
+        The Robin Hood Army is a volunteer based, zero-funds organization that works to get surplus food from restaurants and the community to
+        serve less fortunate people.\n\n
+        Our local chapters are run by friends and colleagues, who hope to create a difference in their own unique way. For example, restaurants
+        in the neighbourhood Green Park, will contribute to the homeless of the locality, through volunteers who live in Green Park. Our “Robins”
+        are largely students and young working professionals – everyone does this in their free time. The lesser fortunate sections of society we
+        serve include homeless families, orphanages, patients from public hospitals, and old age homes.
+    </string>
+    <string name="ngo">Many NGOs and organizations for social change have mushroomed in India in the previous decade but very few have
+        expanded on the basis of scale and the impact on the community.\n\n
+        And considering the lack of transparency in transactions in our country, donations and sponsorships too are not easy to receive too.\n\n
+        In spite of all these hurdles, there are a few NGOs that have made substantial social impact in India until now and we would like you
+        to support them.
+</string>
+    <string name="p"><![CDATA[
+    Chat Room Rules\n\n
+
+    •	Rule 1: No spamming.\n\n
+    \tBegin your conversations with a simple, “Hi”\n\n\n
+
+    •	Rule 2: No personal attacks or harassment.\n\n
+    \tNo attacks against someone’s race, religion, politics, sex, sexual orientation etc.\n\n
+    \tNo acts of harassment of a violent or sexual nature\n\n\n
+
+    •	Rule 3: Don\'t monopolize the conversation.\n\n
+    \tPlease, try to engage in conversation with other people. The chat room is for everybody, it\’s not just about you\n\n\n
+
+    •	Rule 4: No solicitation.\n\n
+    \tDon\’t pimp your latest Blog, Drawing, T-Shirts, or whatever. That\’s rude\n\n\n
+
+    •	Rule 5: Don\'t use the chat room for your personal business.\n\n\n
+
+    •	Rule 6: Everything Else\n\n
+    \tAnything not mentioned in one of the rules above, but that is still considered bad behavior.\n\n\n
+
+    Follow the rules and everyone can enjoy a happy chat room experience.]]></string>
+</resources>

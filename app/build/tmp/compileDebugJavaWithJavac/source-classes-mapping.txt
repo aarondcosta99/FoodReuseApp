@@ -1,0 +1,97 @@
+com/example/authenticatorapp/ChatActivity.java
+ com.example.authenticatorapp.ChatActivity
+ com.example.authenticatorapp.ChatActivity$ViewPagerAdapter
+com/example/authenticatorapp/BuildConfig.java
+ com.example.authenticatorapp.BuildConfig
+com/example/authenticatorapp/Adapters/NoteAdapter.java
+ com.example.authenticatorapp.Adapters.NoteAdapter
+ com.example.authenticatorapp.Adapters.NoteAdapter$1
+ com.example.authenticatorapp.Adapters.NoteAdapter$NoteHolder
+com/example/authenticatorapp/Model/Note.java
+ com.example.authenticatorapp.Model.Note
+com/example/authenticatorapp/Fragments/UsersFragment.java
+ com.example.authenticatorapp.Fragments.UsersFragment
+com/example/authenticatorapp/Donate.java
+ com.example.authenticatorapp.Donate
+ com.example.authenticatorapp.Donate$1
+ com.example.authenticatorapp.Donate$2
+ com.example.authenticatorapp.Donate$3
+ com.example.authenticatorapp.Donate$3$1
+ com.example.authenticatorapp.Donate$3$1$1
+ com.example.authenticatorapp.Donate$3$1$2
+ com.example.authenticatorapp.Donate$3$1$3
+ com.example.authenticatorapp.Donate$3$1$4
+ com.example.authenticatorapp.Donate$3$2
+com/example/authenticatorapp/MessageActivity.java
+ com.example.authenticatorapp.MessageActivity
+ com.example.authenticatorapp.MessageActivity$1
+ com.example.authenticatorapp.MessageActivity$2
+ com.example.authenticatorapp.MessageActivity$3
+ com.example.authenticatorapp.MessageActivity$4
+ com.example.authenticatorapp.MessageActivity$5
+ com.example.authenticatorapp.MessageActivity$6
+ com.example.authenticatorapp.MessageActivity$7
+ com.example.authenticatorapp.MessageActivity$8
+ com.example.authenticatorapp.MessageActivity$9
+com/example/authenticatorapp/NGOs/Rb.java
+ com.example.authenticatorapp.NGOs.Rb
+ com.example.authenticatorapp.NGOs.Rb$1
+com/example/authenticatorapp/Model/User.java
+ com.example.authenticatorapp.Model.User
+com/example/authenticatorapp/Fragments/ChatsFragment.java
+ com.example.authenticatorapp.Fragments.ChatsFragment
+com/example/authenticatorapp/Adapters/UserAdapter.java
+ com.example.authenticatorapp.Adapters.UserAdapter
+ com.example.authenticatorapp.Adapters.UserAdapter$1
+ com.example.authenticatorapp.Adapters.UserAdapter$ViewHolder
+com/example/authenticatorapp/Receive.java
+ com.example.authenticatorapp.Receive
+ com.example.authenticatorapp.Receive$1
+com/example/authenticatorapp/MainActivity.java
+ com.example.authenticatorapp.MainActivity
+ com.example.authenticatorapp.MainActivity$1
+ com.example.authenticatorapp.MainActivity$2
+ com.example.authenticatorapp.MainActivity$3
+ com.example.authenticatorapp.MainActivity$4
+ com.example.authenticatorapp.MainActivity$5
+ com.example.authenticatorapp.MainActivity$6
+ com.example.authenticatorapp.MainActivity$6$1
+ com.example.authenticatorapp.MainActivity$7
+com/example/authenticatorapp/Ngo.java
+ com.example.authenticatorapp.Ngo
+ com.example.authenticatorapp.Ngo$1
+ com.example.authenticatorapp.Ngo$2
+ com.example.authenticatorapp.Ngo$3
+com/example/authenticatorapp/NGOs/Fi.java
+ com.example.authenticatorapp.NGOs.Fi
+ com.example.authenticatorapp.NGOs.Fi$1
+com/example/authenticatorapp/Model/Chat.java
+ com.example.authenticatorapp.Model.Chat
+com/example/authenticatorapp/Adapters/MessageAdapter.java
+ com.example.authenticatorapp.Adapters.MessageAdapter
+ com.example.authenticatorapp.Adapters.MessageAdapter$ViewHolder
+com/example/authenticatorapp/Guide.java
+ com.example.authenticatorapp.Guide
+com/example/authenticatorapp/NGOs/Trha.java
+ com.example.authenticatorapp.NGOs.Trha
+ com.example.authenticatorapp.NGOs.Trha$1
+com/example/authenticatorapp/Login.java
+ com.example.authenticatorapp.Login
+ com.example.authenticatorapp.Login$1
+ com.example.authenticatorapp.Login$2
+ com.example.authenticatorapp.Login$2$1
+ com.example.authenticatorapp.Login$2$1$1
+ com.example.authenticatorapp.Login$2$1$2
+ com.example.authenticatorapp.Login$3
+ com.example.authenticatorapp.Login$4
+ com.example.authenticatorapp.Login$4$1
+com/example/authenticatorapp/Register.java
+ com.example.authenticatorapp.Register
+ com.example.authenticatorapp.Register$1
+ com.example.authenticatorapp.Register$2
+ com.example.authenticatorapp.Register$2$1
+ com.example.authenticatorapp.Register$2$1$1
+ com.example.authenticatorapp.Register$2$1$2
+ com.example.authenticatorapp.Register$2$1$3
+ com.example.authenticatorapp.Register$2$1$4
+ com.example.authenticatorapp.Register$3
