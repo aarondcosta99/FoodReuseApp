@@ -5,7 +5,7 @@ This app was developed on Android Studio in Java. The database used was Google's
 
 Important Note: Deployment of functions to the Node.js 8 runtime was disabled in the Firebase CLI on December 15, 2020. Hence I have not not included the notification feature in the repository and nor will notifications appear while using the app.
 ## Installation
-Click [here](https://github.com/aarondcosta99/FoodReuseApp/raw/master/app/build/outputs/apk/debug/apk.apk) to download the apk file and install the app on your Android Device.
+Click [here](https://github.com/aarondcosta99/FoodReuseApp/raw/master/app/build/outputs/apk/debug/FoodReuseApp_apk.apk) to download the apk file and install the app on your Android Device.
 ## Screenshots
 Registration Page
 ![](https://github.com/aarondcosta99/FoodReuseApp/blob/master/Screenshots/1.png?raw=true)
