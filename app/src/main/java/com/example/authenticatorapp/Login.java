@@ -25,6 +25,7 @@ import com.google.firebase.firestore.DocumentReference;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.InstanceIdResult;
+import com.google.firebase.messaging.FirebaseMessaging;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -36,7 +37,15 @@ public class Login extends AppCompatActivity {
     TextView mCreateBtn,btnReset;
     FirebaseAuth fAuth;
     ProgressBar progressBar;
-    String userID,tokenId;
+    String userID;
+    Task<String> tokenId;
+
+    public void onBackPressed(){
+        Intent a = new Intent(Intent.ACTION_MAIN);
+        a.addCategory(Intent.CATEGORY_HOME);
+        a.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        startActivity(a);
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -51,16 +60,7 @@ public class Login extends AppCompatActivity {
         mCreateBtn   = findViewById(R.id.createText);
         btnReset     = findViewById(R.id.btn_reset_password);
 
-        FirebaseInstanceId.getInstance().getInstanceId().addOnCompleteListener(new OnCompleteListener<InstanceIdResult>() {
-            @Override
-            public void onComplete(@NonNull Task<InstanceIdResult> task) {
-                if(!task.isSuccessful()) {
-                    Log.w(TAG, "getInstanceId failed", task.getException());
-                    return;
-                }
-                tokenId = task.getResult().getToken();
-            }
-        });
+        tokenId= FirebaseMessaging.getInstance().getToken();
 
         mLoginBtn.setOnClickListener(new View.OnClickListener() {
             @Override

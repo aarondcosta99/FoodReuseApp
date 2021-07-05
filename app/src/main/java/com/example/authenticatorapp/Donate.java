@@ -27,6 +27,8 @@ import com.google.firebase.firestore.FirebaseFirestoreException;
 import com.google.firebase.firestore.SetOptions;
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.InstanceIdResult;
+import com.google.firebase.messaging.FirebaseMessaging;
+
 import java.util.HashMap;
 import java.util.Map;
 import javax.annotation.Nullable;
@@ -38,7 +40,8 @@ public class Donate extends AppCompatActivity {
     TextView FullName;
     FirebaseAuth fAuth;
     FirebaseFirestore fStore;
-    String userId,tokenId;
+    String userId;
+    Task<String> tokenId;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -51,16 +54,7 @@ public class Donate extends AppCompatActivity {
         fAuth    = FirebaseAuth.getInstance();
         fStore   = FirebaseFirestore.getInstance();
 
-        FirebaseInstanceId.getInstance().getInstanceId().addOnCompleteListener(new OnCompleteListener<InstanceIdResult>() {
-            @Override
-            public void onComplete(@NonNull Task<InstanceIdResult> task) {
-                if(!task.isSuccessful()) {
-                    Log.w(TAG, "getInstanceId failed", task.getException());
-                    return;
-                }
-                tokenId = task.getResult().getToken();
-            }
-        });
+        tokenId=FirebaseMessaging.getInstance().getToken();
 
         userId = fAuth.getCurrentUser().getUid();
 
