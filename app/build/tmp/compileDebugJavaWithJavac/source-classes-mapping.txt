@@ -15,12 +15,13 @@ com/example/authenticatorapp/Donate.java
  com.example.authenticatorapp.Donate
  com.example.authenticatorapp.Donate$1
  com.example.authenticatorapp.Donate$2
- com.example.authenticatorapp.Donate$2$1
- com.example.authenticatorapp.Donate$2$1$1
- com.example.authenticatorapp.Donate$2$1$2
- com.example.authenticatorapp.Donate$2$1$3
- com.example.authenticatorapp.Donate$2$1$4
- com.example.authenticatorapp.Donate$2$2
+ com.example.authenticatorapp.Donate$3
+ com.example.authenticatorapp.Donate$3$1
+ com.example.authenticatorapp.Donate$3$1$1
+ com.example.authenticatorapp.Donate$3$1$2
+ com.example.authenticatorapp.Donate$3$1$3
+ com.example.authenticatorapp.Donate$3$1$4
+ com.example.authenticatorapp.Donate$3$2
 com/example/authenticatorapp/MessageActivity.java
  com.example.authenticatorapp.MessageActivity
  com.example.authenticatorapp.MessageActivity$1
@@ -77,18 +78,20 @@ com/example/authenticatorapp/NGOs/Trha.java
 com/example/authenticatorapp/Login.java
  com.example.authenticatorapp.Login
  com.example.authenticatorapp.Login$1
- com.example.authenticatorapp.Login$1$1
- com.example.authenticatorapp.Login$1$1$1
- com.example.authenticatorapp.Login$1$1$2
  com.example.authenticatorapp.Login$2
+ com.example.authenticatorapp.Login$2$1
+ com.example.authenticatorapp.Login$2$1$1
+ com.example.authenticatorapp.Login$2$1$2
  com.example.authenticatorapp.Login$3
- com.example.authenticatorapp.Login$3$1
+ com.example.authenticatorapp.Login$4
+ com.example.authenticatorapp.Login$4$1
 com/example/authenticatorapp/Register.java
  com.example.authenticatorapp.Register
  com.example.authenticatorapp.Register$1
- com.example.authenticatorapp.Register$1$1
- com.example.authenticatorapp.Register$1$1$1
- com.example.authenticatorapp.Register$1$1$2
- com.example.authenticatorapp.Register$1$1$3
- com.example.authenticatorapp.Register$1$1$4
  com.example.authenticatorapp.Register$2
+ com.example.authenticatorapp.Register$2$1
+ com.example.authenticatorapp.Register$2$1$1
+ com.example.authenticatorapp.Register$2$1$2
+ com.example.authenticatorapp.Register$2$1$3
+ com.example.authenticatorapp.Register$2$1$4
+ com.example.authenticatorapp.Register$3
