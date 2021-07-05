@@ -21,7 +21,6 @@
         android:label="FoodReuseApp"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/Theme.AppCompat.NoActionBar" >
         <activity android:name="com.example.authenticatorapp.Guide" />
         <activity android:name="com.example.authenticatorapp.NGOs.Rb" />
