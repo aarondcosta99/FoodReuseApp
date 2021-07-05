@@ -1,234 +1,234 @@
 [
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_users.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\fragment_users.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_send.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_send.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chat.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_chat.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_right.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\chat_item_right.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chats.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\fragment_chats.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_chat.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_donate.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_donate.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_receive.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_receive.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_message.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_message.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_send.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable-anydpi\\ic_send.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trha.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable\\trha.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_guide.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_guide.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_trha.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_trha.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_users.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\fragment_users.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_logout.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_item.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\user_item.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_guide.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_guide.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_guide.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_guide.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chats.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\fragment_chats.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_send.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_send.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_register.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ngo.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_ngo.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_send.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable-mdpi\\ic_send.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_chat_message_list_item.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\layout_chat_message_list_item.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_donate.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_donate.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_send.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_send.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_send.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_send.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_send.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable-hdpi\\ic_send.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_chat_message_list_item.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\layout_chat_message_list_item.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rb.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_rb.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_default.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_default.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fi.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable\\fi.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_note_item.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\note_item.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_donate.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_donate.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_send.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_send.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chat.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_chat.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_my_location.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_my_location.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_right.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\chat_item_right.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_receive.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_receive.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rotibank.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable\\rotibank.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_left.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\chat_item_left.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_item.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\user_item.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rb.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_rb.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_receive.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_receive.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_images.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable\\images.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_left.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\chat_item_left.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fi.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_fi.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ngo.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_ngo.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_left.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable\\background_left.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_trha.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_trha.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ngo.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_ngo.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_default.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_default.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_send.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable-anydpi\\ic_send.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rotibank.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable\\rotibank.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_my_location.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_my_location.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_images.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable\\images.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_send.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_send.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_trha.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable\\trha.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_message.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_message.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_left.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable\\background_left.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_right.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable\\background_right.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_send.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable-hdpi\\ic_send.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_guide.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_guide.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fi.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable\\fi.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_receive.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\drawable\\ic_receive.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_note_item.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\note_item.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fi.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_fi.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ngo.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_ngo.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_send.png.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable-mdpi\\ic_send.png"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_chat.xml"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_right.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\drawable\\background_right.xml"
     },
     {
-        "merged": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_donate.xml.flat",
+        "source": "D:\\Projects\\FoodReuseApp\\app\\src\\main\\res\\layout\\activity_donate.xml"
     }
 ]

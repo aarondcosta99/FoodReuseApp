@@ -25,8 +25,6 @@ import com.google.firebase.firestore.FieldValue;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.FirebaseFirestoreException;
 import com.google.firebase.firestore.SetOptions;
-import com.google.firebase.iid.FirebaseInstanceId;
-import com.google.firebase.iid.InstanceIdResult;
 import com.google.firebase.messaging.FirebaseMessaging;
 
 import java.util.HashMap;
@@ -41,7 +39,7 @@ public class Donate extends AppCompatActivity {
     FirebaseAuth fAuth;
     FirebaseFirestore fStore;
     String userId;
-    Task<String> tokenId;
+    String tokenId;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -54,7 +52,7 @@ public class Donate extends AppCompatActivity {
         fAuth    = FirebaseAuth.getInstance();
         fStore   = FirebaseFirestore.getInstance();
 
-        tokenId=FirebaseMessaging.getInstance().getToken();
+        tokenId=FirebaseMessaging.getInstance().getToken().getResult();
 
         userId = fAuth.getCurrentUser().getUid();
 

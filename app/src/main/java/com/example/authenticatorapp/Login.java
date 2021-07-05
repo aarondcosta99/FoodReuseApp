@@ -23,8 +23,6 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.DocumentReference;
 import com.google.firebase.firestore.FirebaseFirestore;
-import com.google.firebase.iid.FirebaseInstanceId;
-import com.google.firebase.iid.InstanceIdResult;
 import com.google.firebase.messaging.FirebaseMessaging;
 
 import java.util.HashMap;
@@ -38,7 +36,7 @@ public class Login extends AppCompatActivity {
     FirebaseAuth fAuth;
     ProgressBar progressBar;
     String userID;
-    Task<String> tokenId;
+    String tokenId;
 
     public void onBackPressed(){
         Intent a = new Intent(Intent.ACTION_MAIN);
@@ -60,7 +58,7 @@ public class Login extends AppCompatActivity {
         mCreateBtn   = findViewById(R.id.createText);
         btnReset     = findViewById(R.id.btn_reset_password);
 
-        tokenId= FirebaseMessaging.getInstance().getToken();
+        tokenId= FirebaseMessaging.getInstance().getToken().getResult();
 
         mLoginBtn.setOnClickListener(new View.OnClickListener() {
             @Override

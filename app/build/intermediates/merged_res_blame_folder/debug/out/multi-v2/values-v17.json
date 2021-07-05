@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\FoodReuseApp-20210125T172235Z-001\\FoodReuseApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "outputFile": "D:\\Projects\\FoodReuseApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\aarondc\\.gradle\\caches\\transforms-2\\files-2.1\\d38bcf900577a63e0da310b3fe272179\\appcompat-1.1.0\\res\\values-v17\\values-v17.xml",
+                    "source": "C:\\Users\\aarondc\\.gradle\\caches\\transforms-2\\files-2.1\\999d0ab2f1d4f203c91e2a21da3072aa\\appcompat-1.3.0\\res\\values-v17\\values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
