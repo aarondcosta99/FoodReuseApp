@@ -24,6 +24,8 @@ import com.google.firebase.firestore.DocumentReference;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.messaging.FirebaseMessaging;
 
+import org.jetbrains.annotations.NotNull;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -50,7 +52,12 @@ public class Register extends AppCompatActivity {
         mLoginBtn    = findViewById(R.id.createText);
         progressBar  = findViewById(R.id.progressBar);
 
-        tokenId= FirebaseMessaging.getInstance().getToken().getResult();
+        FirebaseMessaging.getInstance().getToken().addOnCompleteListener(new OnCompleteListener<String>() {
+            @Override
+            public void onComplete(@NonNull @NotNull Task<String> task) {
+                tokenId=task.getResult();
+            }
+        });
         fAuth  = FirebaseAuth.getInstance();
         fStore = FirebaseFirestore.getInstance();
 

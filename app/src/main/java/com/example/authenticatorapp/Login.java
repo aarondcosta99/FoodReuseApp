@@ -25,6 +25,8 @@ import com.google.firebase.firestore.DocumentReference;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.messaging.FirebaseMessaging;
 
+import org.jetbrains.annotations.NotNull;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -58,7 +60,12 @@ public class Login extends AppCompatActivity {
         mCreateBtn   = findViewById(R.id.createText);
         btnReset     = findViewById(R.id.btn_reset_password);
 
-        tokenId= FirebaseMessaging.getInstance().getToken().getResult();
+        FirebaseMessaging.getInstance().getToken().addOnCompleteListener(new OnCompleteListener<String>() {
+            @Override
+            public void onComplete(@NonNull @NotNull Task<String> task) {
+                tokenId=task.getResult();
+            }
+        });
 
         mLoginBtn.setOnClickListener(new View.OnClickListener() {
             @Override

@@ -40,6 +40,9 @@ import com.google.firebase.firestore.QuerySnapshot;
 import com.google.firebase.firestore.SetOptions;
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.InstanceIdResult;
+import com.google.firebase.messaging.FirebaseMessaging;
+
+import org.jetbrains.annotations.NotNull;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -55,7 +58,7 @@ public class MessageActivity extends AppCompatActivity {
     FirebaseFirestore rootRef;
     ImageView btn_send,btn_loc;
     EditText text_send;
-    String userId,roomId,tokenId,FullName;
+    String userId,roomId,tokenId;
     MessageAdapter messageAdapter;
     List<Chat> mchat;
     RecyclerView recyclerView;
@@ -75,14 +78,10 @@ public class MessageActivity extends AppCompatActivity {
         btn_send                 = findViewById(R.id.btn_send);
         btn_loc                  = findViewById(R.id.sendloc);
         rootRef                  = FirebaseFirestore.getInstance();
-        FirebaseInstanceId.getInstance().getInstanceId().addOnCompleteListener(new OnCompleteListener<InstanceIdResult>() {
+        FirebaseMessaging.getInstance().getToken().addOnCompleteListener(new OnCompleteListener<String>() {
             @Override
-            public void onComplete(@NonNull Task<InstanceIdResult> task) {
-                if(!task.isSuccessful()) {
-                    Log.w(TAG, "getInstanceId failed", task.getException());
-                    return;
-                }
-                tokenId = task.getResult().getToken();
+            public void onComplete(@NonNull @NotNull Task<String> task) {
+                tokenId=task.getResult();
             }
         });
         final String recipientId = getIntent().getStringExtra("recipientId");
